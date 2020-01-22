@@ -1,3 +1,3 @@
-# kakao-clone
+# kakaotalk screen clone
 
-Kakao Desktop App Clone
+with html, css
