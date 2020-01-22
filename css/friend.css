@@ -50,7 +50,7 @@
   border: 2px solid #52d17e;
   padding: 5px 10px;
   border-radius: 15px;
-  font-size: 11px;
+  font-size: 9px;
 }
 
 .friend__now-listening span {
@@ -58,7 +58,7 @@
 }
 
 .friend__now-listening i {
-  font-size: 12px;
+  font-size: 9px;
   color: #52d17e;
 }
 
